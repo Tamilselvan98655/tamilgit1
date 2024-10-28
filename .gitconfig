@@ -1,0 +1,12 @@
+[user]
+	name = “Tamil”
+	email = “tmlslvnparamasivam@gmail.com”
+[core]
+	editor = vim
+	compression = 2
+[diff]
+	tool = vim.diff
+[merge]
+	conflictstyle = diff3
+[mergetool]
+	prompt = false
