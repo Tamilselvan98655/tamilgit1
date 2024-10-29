@@ -161,3 +161,41 @@ git switch master
 git status
 git rebase master
 git diff --staged
+ll
+rm -rf Mygit/
+ll
+rm -rf Tamil1 
+ll
+git ststus
+git status
+git branches
+git branche
+git branch
+ll
+ls -la
+git branch -d test
+ll
+git status
+git rm
+git rm Tamil1 
+ll
+clear
+vi javaboy.java
+vi javaboy1.java
+ll
+git status
+vi deploy.sh
+git status
+git add *.java
+git status
+git add .
+git status
+git commit -m "first commit"
+vi employ.java
+git status
+git add .
+git status
+git remote add tamil https://github.com/Tamilselvan98655/tamilgit1.git
+git remote -v
+git push tamil master
+ll
