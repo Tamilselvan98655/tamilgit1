@@ -199,3 +199,17 @@ git remote add tamil https://github.com/Tamilselvan98655/tamilgit1.git
 git remote -v
 git push tamil master
 ll
+git status
+git commit -m "Added service"
+git status
+ls
+vi javaboy.java 
+git status
+git commit -a -m "Updated file.."
+git status
+vi cleanup.sh
+git status
+git commit -a -m "Added script file"
+git status
+ll
+ls -la
