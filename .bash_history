@@ -271,3 +271,84 @@ git commit -a -m "Updated file"
 git status
 ll
 ls -la
+git branch
+git branch Dev
+git branch
+git branch -m mast
+git branch
+git branch -m master
+git branch Dev Deveploment
+git branch Deveploment Dev
+git branch
+git branch -d Deveploment 
+git branch
+git checkout Dev 
+git branch
+vi string.java
+cat string.java 
+git checkout master 
+cat string.java 
+git checkout Dev 
+git commit -m "updated"
+git commit -a -m "updated"
+git checkout master 
+cat string.java 
+git status
+git add .
+git status
+git branch 
+git branch
+git diff
+git diff Dev 
+git commit -a -m "Added script file"
+git diff Dev 
+git diff master 
+git diff Dev 
+git merge Dev 
+ll
+ls -la
+clear
+git log
+git push tamil master
+clear
+git push tamil master
+vi javaboy
+vi string.java
+git branch
+git status
+git commit -a -m "master branch"
+git checkout Dev 
+vi string.java
+git commit -a -m "updated dev branch"
+git checkout master
+git commit -a -m "updated dev branch"
+git add .
+git commit -a -m "updated dev branch"
+git branch
+git checkout master 
+git diff Dev 
+git merge Dev 
+vi string.java
+git commit -a -m "merge conflipt resloved"
+git checkout -b stage 
+git branch
+git push tamil master Dev 
+git push tamil --all
+clear
+git branch
+git branch -r
+git branch -a
+git branch -d stage
+git branch -d Dev 
+git branch 
+git push tamil :Dev 
+git push tamil :qa
+touch .classpath
+touch .project
+mkdir node_modules/
+git status
+touch node_modules/test.txt
+git status
+vi .gitignore
+git satatus
+git status
