@@ -213,3 +213,61 @@ git commit -a -m "Added script file"
 git status
 ll
 ls -la
+git status
+git add *
+git status
+git add *
+git status
+git add .
+git status
+git commit -m "Added script file"
+git status
+git push tamilgit master
+git push tamil tamilgit master
+git push tamil master
+ls
+git log
+git log --oneline
+git show 757fa0b
+git log
+git show 757fa0b
+git show --pretty="" --name-only 1959cf0
+git branch
+git list
+git --list
+touch test.py
+touch test.rp
+ll
+clear
+git status
+git clean -n
+git clean -f
+git status
+ clear
+touch test.sh
+touch test.c
+git status
+git clean
+git clean -n
+git status
+vi test.sh 
+git status
+git add .
+git status
+git reset
+git status
+git add *
+git status
+git add .
+git status
+git reset test.c
+git status
+vi test.c 
+git add *
+git status
+vi string.java
+git status
+git commit -a -m "Updated file"
+git status
+ll
+ls -la
