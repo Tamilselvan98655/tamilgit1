@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1730201052,,"wq!"
+|2,0,1730707656,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,34 +25,50 @@
 # Registers:
 
 # File marks:
-'0  1  13  ~/string.java
-|4,48,1,13,1730201052,"~/string.java"
-'1  1  22  ~/test.c
-|4,49,1,22,1730198215,"~/test.c"
-'2  1  18  ~/test.sh
-|4,50,1,18,1730197887,"~/test.sh"
-'3  2  4  ~/cleanup.sh
-|4,51,2,4,1730185585,"~/cleanup.sh"
-'4  7  3  ~/javaboy.java
-|4,52,7,3,1730185394,"~/javaboy.java"
-'5  5  0  ~/employ.java
-|4,53,5,0,1730100725,"~/employ.java"
-'6  1  3  ~/deploy.sh
-|4,54,1,3,1730099476,"~/deploy.sh"
-'7  5  0  ~/javaboy1.java
-|4,55,5,0,1730099403,"~/javaboy1.java"
-'8  5  0  ~/javaboy.java
-|4,56,5,0,1730099383,"~/javaboy.java"
-'9  5  0  ~/javaboy.java
-|4,57,5,0,1730099383,"~/javaboy.java"
+'0  2  4  ~/string.java
+|4,48,2,4,1730707656,"~/string.java"
+'1  1  13  ~/string.java
+|4,49,1,13,1730201052,"~/string.java"
+'2  1  13  ~/string.java
+|4,50,1,13,1730201052,"~/string.java"
+'3  1  22  ~/test.c
+|4,51,1,22,1730198215,"~/test.c"
+'4  1  18  ~/test.sh
+|4,52,1,18,1730197887,"~/test.sh"
+'5  2  4  ~/cleanup.sh
+|4,53,2,4,1730185585,"~/cleanup.sh"
+'6  7  3  ~/javaboy.java
+|4,54,7,3,1730185394,"~/javaboy.java"
+'7  5  0  ~/employ.java
+|4,55,5,0,1730100725,"~/employ.java"
+'8  1  3  ~/deploy.sh
+|4,56,1,3,1730099476,"~/deploy.sh"
+'9  5  0  ~/javaboy1.java
+|4,57,5,0,1730099403,"~/javaboy1.java"
 
 # Jumplist (newest first):
+-'  2  4  ~/string.java
+|4,39,2,4,1730707656,"~/string.java"
+-'  1  13  ~/string.java
+|4,39,1,13,1730707641,"~/string.java"
 -'  1  13  ~/string.java
 |4,39,1,13,1730201052,"~/string.java"
 -'  1  22  ~/test.c
 |4,39,1,22,1730198215,"~/test.c"
 -'  1  22  ~/test.c
 |4,39,1,22,1730198215,"~/test.c"
+-'  1  22  ~/test.c
+|4,39,1,22,1730198215,"~/test.c"
+-'  1  22  ~/test.c
+|4,39,1,22,1730198215,"~/test.c"
+-'  1  18  ~/test.sh
+|4,39,1,18,1730197887,"~/test.sh"
+-'  1  18  ~/test.sh
+|4,39,1,18,1730197887,"~/test.sh"
+-'  1  18  ~/test.sh
+|4,39,1,18,1730197887,"~/test.sh"
+-'  1  18  ~/test.sh
+|4,39,1,18,1730197887,"~/test.sh"
 -'  1  18  ~/test.sh
 |4,39,1,18,1730197887,"~/test.sh"
 -'  1  18  ~/test.sh
@@ -77,6 +93,38 @@
 |4,39,2,4,1730185585,"~/cleanup.sh"
 -'  2  4  ~/cleanup.sh
 |4,39,2,4,1730185585,"~/cleanup.sh"
+-'  2  4  ~/cleanup.sh
+|4,39,2,4,1730185585,"~/cleanup.sh"
+-'  2  4  ~/cleanup.sh
+|4,39,2,4,1730185585,"~/cleanup.sh"
+-'  2  4  ~/cleanup.sh
+|4,39,2,4,1730185585,"~/cleanup.sh"
+-'  2  4  ~/cleanup.sh
+|4,39,2,4,1730185585,"~/cleanup.sh"
+-'  2  4  ~/cleanup.sh
+|4,39,2,4,1730185585,"~/cleanup.sh"
+-'  2  4  ~/cleanup.sh
+|4,39,2,4,1730185585,"~/cleanup.sh"
+-'  2  4  ~/cleanup.sh
+|4,39,2,4,1730185585,"~/cleanup.sh"
+-'  2  4  ~/cleanup.sh
+|4,39,2,4,1730185585,"~/cleanup.sh"
+-'  1  0  ~/cleanup.sh
+|4,39,1,0,1730185561,"~/cleanup.sh"
+-'  1  0  ~/cleanup.sh
+|4,39,1,0,1730185561,"~/cleanup.sh"
+-'  1  0  ~/cleanup.sh
+|4,39,1,0,1730185561,"~/cleanup.sh"
+-'  1  0  ~/cleanup.sh
+|4,39,1,0,1730185561,"~/cleanup.sh"
+-'  1  0  ~/cleanup.sh
+|4,39,1,0,1730185561,"~/cleanup.sh"
+-'  1  0  ~/cleanup.sh
+|4,39,1,0,1730185561,"~/cleanup.sh"
+-'  1  0  ~/cleanup.sh
+|4,39,1,0,1730185561,"~/cleanup.sh"
+-'  1  0  ~/cleanup.sh
+|4,39,1,0,1730185561,"~/cleanup.sh"
 -'  1  0  ~/cleanup.sh
 |4,39,1,0,1730185561,"~/cleanup.sh"
 -'  1  0  ~/cleanup.sh
@@ -125,6 +173,38 @@
 |4,39,7,3,1730185394,"~/javaboy.java"
 -'  7  3  ~/javaboy.java
 |4,39,7,3,1730185394,"~/javaboy.java"
+-'  7  3  ~/javaboy.java
+|4,39,7,3,1730185394,"~/javaboy.java"
+-'  7  3  ~/javaboy.java
+|4,39,7,3,1730185394,"~/javaboy.java"
+-'  7  3  ~/javaboy.java
+|4,39,7,3,1730185394,"~/javaboy.java"
+-'  7  3  ~/javaboy.java
+|4,39,7,3,1730185394,"~/javaboy.java"
+-'  7  3  ~/javaboy.java
+|4,39,7,3,1730185394,"~/javaboy.java"
+-'  7  3  ~/javaboy.java
+|4,39,7,3,1730185394,"~/javaboy.java"
+-'  7  3  ~/javaboy.java
+|4,39,7,3,1730185394,"~/javaboy.java"
+-'  7  3  ~/javaboy.java
+|4,39,7,3,1730185394,"~/javaboy.java"
+-'  7  3  ~/javaboy.java
+|4,39,7,3,1730185394,"~/javaboy.java"
+-'  7  3  ~/javaboy.java
+|4,39,7,3,1730185394,"~/javaboy.java"
+-'  7  3  ~/javaboy.java
+|4,39,7,3,1730185394,"~/javaboy.java"
+-'  7  3  ~/javaboy.java
+|4,39,7,3,1730185394,"~/javaboy.java"
+-'  7  3  ~/javaboy.java
+|4,39,7,3,1730185394,"~/javaboy.java"
+-'  7  3  ~/javaboy.java
+|4,39,7,3,1730185394,"~/javaboy.java"
+-'  7  3  ~/javaboy.java
+|4,39,7,3,1730185394,"~/javaboy.java"
+-'  7  3  ~/javaboy.java
+|4,39,7,3,1730185394,"~/javaboy.java"
 -'  5  0  ~/javaboy.java
 |4,39,5,0,1730185367,"~/javaboy.java"
 -'  5  0  ~/javaboy.java
@@ -157,105 +237,26 @@
 |4,39,5,0,1730185367,"~/javaboy.java"
 -'  5  0  ~/javaboy.java
 |4,39,5,0,1730185367,"~/javaboy.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  5  0  ~/employ.java
-|4,39,5,0,1730100725,"~/employ.java"
--'  1  0  ~/employ.java
-|4,39,1,0,1730100694,"~/employ.java"
--'  1  0  ~/employ.java
-|4,39,1,0,1730100694,"~/employ.java"
--'  1  0  ~/employ.java
-|4,39,1,0,1730100694,"~/employ.java"
--'  1  0  ~/employ.java
-|4,39,1,0,1730100694,"~/employ.java"
--'  1  0  ~/employ.java
-|4,39,1,0,1730100694,"~/employ.java"
--'  1  0  ~/employ.java
-|4,39,1,0,1730100694,"~/employ.java"
--'  1  0  ~/employ.java
-|4,39,1,0,1730100694,"~/employ.java"
--'  1  0  ~/employ.java
-|4,39,1,0,1730100694,"~/employ.java"
--'  1  0  ~/employ.java
-|4,39,1,0,1730100694,"~/employ.java"
--'  1  0  ~/employ.java
-|4,39,1,0,1730100694,"~/employ.java"
--'  1  0  ~/employ.java
-|4,39,1,0,1730100694,"~/employ.java"
--'  1  0  ~/employ.java
-|4,39,1,0,1730100694,"~/employ.java"
--'  1  0  ~/employ.java
-|4,39,1,0,1730100694,"~/employ.java"
+-'  5  0  ~/javaboy.java
+|4,39,5,0,1730185367,"~/javaboy.java"
+-'  5  0  ~/javaboy.java
+|4,39,5,0,1730185367,"~/javaboy.java"
+-'  5  0  ~/javaboy.java
+|4,39,5,0,1730185367,"~/javaboy.java"
+-'  5  0  ~/javaboy.java
+|4,39,5,0,1730185367,"~/javaboy.java"
+-'  5  0  ~/javaboy.java
+|4,39,5,0,1730185367,"~/javaboy.java"
 
 # History of marks within files (newest to oldest):
 
 > ~/string.java
-	*	1730201047	0
-	"	1	13
-	^	1	14
-	.	1	13
+	*	1730707652	0
+	"	2	4
+	^	2	5
+	.	2	4
 	+	1	13
+	+	2	4
 
 > ~/test.c
 	*	1730198208	0
